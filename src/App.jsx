@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
-import WordGrid from "./pages/WordGrid";
-import InputSection from "./pages/InputSection";
-import GameOver from "./pages/GameOver";
+import WordGrid from "./components/WordGrid";
+import InputSection from "./components/InputSection";
+import GameOver from "./components/GameOver";
 import "./app.css";
 
 const WORD_TO_GUESS = "REACT"; 
