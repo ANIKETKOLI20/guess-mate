@@ -65,7 +65,9 @@ Guess Mate is a word-guessing game where players attempt to guess a five-letter 
 ```
 
 ## Screenshot
-
+![image alt](https://github.com/ANIKETKOLI20/guess-mate/blob/main/Screenshot%20(1273).png?raw=true)
+![image alt](https://github.com/ANIKETKOLI20/guess-mate/blob/main/Screenshot%20(1274).png?raw=true)
+![image alt](https://github.com/ANIKETKOLI20/guess-mate/blob/main/Screenshot%20(1275).png?raw=true)
 
 ## Link
 Deploy : https://guess-mate-git-main-aniket-kolis-projects.vercel.app/
