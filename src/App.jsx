@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import WordGrid from "./components/WordGrid";
 import InputSection from "./components/InputSection";
 import GameOver from "./components/GameOver";
-import "./app.css";
+import './style/global.css'
 
 const WORD_TO_GUESS = "REACT"; 
 const MAX_ATTEMPTS = 6;
